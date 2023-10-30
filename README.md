@@ -3,7 +3,7 @@
 ## Imagens
 
 
-https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/390ed66e-d78e-49ee-ab28-f87c3276abdb.jfif
+https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image1.jpeg
 
 
 ## Código-Fonte
