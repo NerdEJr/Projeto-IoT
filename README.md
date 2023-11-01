@@ -1,11 +1,8 @@
 # Projeto-IoT
 
-## Imagens
+## Projeto Digital (Thinkercad)
 
-![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image2.jpeg?raw=true)
-![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image3.jpeg?raw=true)
-![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image1.jpeg?raw=true)
-
+![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/PROJETO%20IoT.png?raw=true)
 
 
 ## Código-Fonte
@@ -71,3 +68,8 @@ void loop() {
   Serial.println();
 }
 ```
+## Imagens
+
+![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image2.jpeg?raw=true)
+![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image3.jpeg?raw=true)
+![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image1.jpeg?raw=true)
