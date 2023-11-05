@@ -73,3 +73,6 @@ void loop() {
 ![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image2.jpeg?raw=true)
 ![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image3.jpeg?raw=true)
 ![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/image1.jpeg?raw=true)
+
+## Vídeo de Apresentação
+https://www.youtube.com/watch?v=6Yfij6RwoLE
