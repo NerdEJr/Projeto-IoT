@@ -1,9 +1,31 @@
 # Projeto-IoT
 
+## Projeto de IoT - Codificação Morse com Arduino
+Descrição:
+Este projeto foi desenvolvido como parte da disciplina de Microcontroladores e IoT, com o objetivo principal de utilizar um Arduino para codificar mensagens digitadas pelo usuário em código Morse. A implementação inclui a utilização de um LED para a saída visual da mensagem codificada e uma exibição da mensagem na tela.
+
+## Funcionalidades Principais:
+**Entrada de Mensagem:** Permite que o usuário digite uma mensagem por meio de uma interface simples.
+Codificação em Código Morse: Utilizando a lógica de codificação Morse, a mensagem digitada é transformada em sequências de luz (LED) representando os caracteres Morse correspondentes.
+**Saída Visual com LED:** Um LED é utilizado para exibir a mensagem codificada visualmente, proporcionando uma experiência interativa.
+Feedback na Tela: Além da saída visual, a mensagem codificada é exibida na tela, tornando o projeto acessível e intuitivo.
+**Objetivo:**
+Explorar os conceitos práticos de Microcontroladores e IoT, integrando a codificação Morse para comunicação. Este projeto visa aprimorar a compreensão da programação de Arduino, entrada e saída de dados, e a aplicação prática de conceitos de IoT em um contexto educacional.
+
+## Tecnologias Utilizadas:
+Arduino (ou especificar o modelo utilizado)
+Linguagem de Programação C++
+Conceitos de IoT e Microcontroladores
+
 ## Projeto Digital (Thinkercad)
 
 ![alt text](https://github.com/NerdEJr/Projeto-IoT/blob/main/Imagens/PROJETO%20IoT.png?raw=true)
 
+**Como Executar:**
+Clone este repositório.
+Carregue o código no seu Arduino utilizando a IDE.
+Digite sua mensagem na interface indicada.
+Observe a saída visual no LED e a mensagem na tela.
 
 ## Código-Fonte
 ```C#
