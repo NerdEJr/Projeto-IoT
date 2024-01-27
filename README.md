@@ -5,8 +5,10 @@ Este projeto foi desenvolvido como parte da disciplina de Microcontroladores e I
 ## Funcionalidades Principais:
 **Entrada de Mensagem:** Permite que o usuário digite uma mensagem por meio de uma interface simples.
 Codificação em Código Morse: Utilizando a lógica de codificação Morse, a mensagem digitada é transformada em sequências de luz (LED) representando os caracteres Morse correspondentes.
+
 **Saída Visual com LED:** Um LED é utilizado para exibir a mensagem codificada visualmente, proporcionando uma experiência interativa.
 Feedback na Tela: Além da saída visual, a mensagem codificada é exibida na tela, tornando o projeto acessível e intuitivo.
+
 **Objetivo:**
 Explorar os conceitos práticos de Microcontroladores e IoT, integrando a codificação Morse para comunicação. Este projeto visa aprimorar a compreensão da programação de Arduino, entrada e saída de dados, e a aplicação prática de conceitos de IoT em um contexto educacional.
 
